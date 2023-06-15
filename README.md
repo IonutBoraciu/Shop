@@ -1,6 +1,7 @@
 # Shop
 
 Programul are cateva optiuni printre care:
+
  **A** : adauga in baza de date un nou produs
  
  **E** : elimina un produs din baza de date in functie de id-ul pe care il furnizati;
