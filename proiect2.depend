@@ -1,0 +1,83 @@
+# depslib dependency file v1.0
+1601490215 source:c:\users\user\desktop\proiect -boraciu ionut, zaharia nicusor\frigider.cpp
+	"Frigider.h"
+
+1601141106 c:\users\user\desktop\proiect -boraciu ionut, zaharia nicusor\frigider.h
+	"Produs.h"
+
+1601490193 c:\users\user\desktop\proiect -boraciu ionut, zaharia nicusor\produs.h
+	<string>
+
+1641575430 source:c:\users\user\desktop\proiect -boraciu ionut, zaharia nicusor\magazin.cpp
+	"Magazin.h"
+	<iostream>
+	<exception>
+	<stdexcept>
+	<fstream>
+
+1641564277 c:\users\user\desktop\proiect -boraciu ionut, zaharia nicusor\magazin.h
+	"Produs.h"
+	"Frigider.h"
+	"MasinaDeSpalat.h"
+
+1601138015 c:\users\user\desktop\proiect -boraciu ionut, zaharia nicusor\masinadespalat.h
+	"Produs.h"
+
+1641573784 source:c:\users\user\desktop\proiect -boraciu ionut, zaharia nicusor\main.cpp
+	<iostream>
+	"Produs.h"
+	"Magazin.h"
+	"Frigider.h"
+	"MasinaDeSpalat.h"
+	<string>
+	<exception>
+	<stdexcept>
+	<fstream>
+
+1641564734 source:c:\users\user\desktop\proiect -boraciu ionut, zaharia nicusor\masinadespalat.cpp
+	"MasinaDeSpalat.h"
+
+1601490442 source:c:\users\user\desktop\proiect -boraciu ionut, zaharia nicusor\produs.cpp
+	"Produs.h"
+
+1601493815 source:d:\school\proiect -boraciu ionut, zaharia nicusor\frigider.cpp
+	"Frigider.h"
+
+1601144706 d:\school\proiect -boraciu ionut, zaharia nicusor\frigider.h
+	"Produs.h"
+
+1601493793 d:\school\proiect -boraciu ionut, zaharia nicusor\produs.h
+	<string>
+
+1641579030 source:d:\school\proiect -boraciu ionut, zaharia nicusor\magazin.cpp
+	"Magazin.h"
+	<iostream>
+	<exception>
+	<stdexcept>
+	<fstream>
+
+1641567877 d:\school\proiect -boraciu ionut, zaharia nicusor\magazin.h
+	"Produs.h"
+	"Frigider.h"
+	"MasinaDeSpalat.h"
+
+1601141615 d:\school\proiect -boraciu ionut, zaharia nicusor\masinadespalat.h
+	"Produs.h"
+
+1641577384 source:d:\school\proiect -boraciu ionut, zaharia nicusor\main.cpp
+	<iostream>
+	"Produs.h"
+	"Magazin.h"
+	"Frigider.h"
+	"MasinaDeSpalat.h"
+	<string>
+	<exception>
+	<stdexcept>
+	<fstream>
+
+1641568334 source:d:\school\proiect -boraciu ionut, zaharia nicusor\masinadespalat.cpp
+	"MasinaDeSpalat.h"
+
+1601494042 source:d:\school\proiect -boraciu ionut, zaharia nicusor\produs.cpp
+	"Produs.h"
+
