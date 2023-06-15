@@ -1,4 +1,5 @@
 # Shop
+Programul imita functionalitatile unei baze de date a unui magzin de frigidere si masini de spalat, acesta este creat in C++, cu ajutorul claselor ( creat in scopul ditactic de a aprofunda functionalitatea claselor)
 
 Programul are cateva optiuni printre care:
 
